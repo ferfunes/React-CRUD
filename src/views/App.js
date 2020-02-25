@@ -4,7 +4,7 @@ import { AddItem } from "../components/AddItem.js";
 
 const products = [
   {
-    name: "Ipad",
+    name: "Mousepad",
     price: 200
   },
   {
